@@ -1,0 +1,27 @@
+Id 1
+Math 1
+Russ 1
+Eng 1
+PE 1
+Chem 1
+Phis 1
+Result 1
+-------------------------------------
+Id 2
+Math 2
+Russ 2
+Eng 2
+PE 2
+Chem 2
+Phis 2
+Result 2
+-------------------------------------
+Id 3
+Math 100
+Russ 100
+Eng 100
+PE 100
+Chem 100
+Phis 100
+Result 100
+-------------------------------------
